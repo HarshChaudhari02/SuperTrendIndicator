@@ -34,5 +34,6 @@ Super Trend = Upper Final if Close <= Upper Final else Lower Final
 
 Plot the Super Trend Indicator over time using the matplotlib.pyplot.plot() method, with the Closing Price and Super Trend plotted on the y-axis and time plotted on the x-axis. The plot is labeled with a title and legend using the pyplot.title() and pyplot.legend() methods, and displayed using the pyplot.show() method.
 
-#Output:
+Output:
+
 ![Screenshot (100)](https://user-images.githubusercontent.com/110590945/236888263-31768720-52b2-4117-93f7-a76ed3bfebb4.png)
